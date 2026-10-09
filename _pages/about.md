@@ -35,4 +35,4 @@ My research interests span **cancer biology, single-cell RNA sequencing, spatial
 
 Email: [dfeng4127@ustc.edu](mailto:dfeng4127@ustc.edu)
 
-[Research](/research/) · [Publications](/publications/) · [Projects](/projects/) · [CV](/cv/)
+[Research](/research/) · [Publications](/publications/) 
