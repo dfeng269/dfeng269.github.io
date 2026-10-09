@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-# 黄登烽, Ph.D.
+# Dengfeng Huang, Ph.D.
 
 I am a researcher in the Department of Pathology at **Shanghai Tenth People’s Hospital, affiliated with Tongji University**, where I have worked since September 2020. My current research focuses on **colorectal cancer biology**, integrating single-cell transcriptomics, spatial omics and other multi-omics approaches to study the tumor microenvironment and disease mechanisms. My work also investigates the role of macrophage complement factor D (CFD) deficiency in colorectal cancer progression.
 
