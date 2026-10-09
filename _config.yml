@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : Dengfeng Huang 
+title                    : "Dengfeng Huang | Academic Website"
 title_separator          : "-"
 name                     : &name "Dengfeng Huang" 
-description              : &description "Academic website of Dengfeng Huang" # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Cancer biology, single-cell transcriptomics, and spatial omics research"
 url                      : "https://df.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png" 
   name             : "Dengfeng Huang" 
   pronouns         : # example: "she/her"  
-  bio              : "Single-cell RNA-seq, Spatial Transcriptomics, Cancer Biology" 
+  bio              : "Cancer Biology | Single-cell & Spatial Omics"
   location         : "Shanghai, China" 
-  employer         : "Shanghai Tenth People’s Hospital Affiliated to Tongji University" 
+  employer         : "Shanghai Tenth People’s Hospital, Tongji University"
   uri              : # URL
   email            : "dfeng4127@ustc.edu" 
 
