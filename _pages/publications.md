@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications below are transcribed and lightly formatted from my supplied CV. Author order and contribution labels follow the CV; bibliographic details should be checked against final publisher records before public release.
 
 ## Selected publications and major contributions
 
