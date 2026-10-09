@@ -9,13 +9,13 @@ Publications below are transcribed and lightly formatted from my supplied CV. Au
 
 ## Selected publications and major contributions
 
-1. Hu, S., Liu, H., Song, F., **Huang, D.**\*, Wei, Q.\* (2026). **CFD protein deficiency induce slow transit constipation is correlated with gut microbial dysbiosis.** *Scientific Reports*. [DOI](https://doi.org/10.1038/s41598-026-41597-x). (Co-corresponding author, as reported in CV.)
+1. Hu, S., Liu, H., Song, F., **Huang, D.**\*, Wei, Q.\* (2026). **CFD protein deficiency induce slow transit constipation is correlated with gut microbial dysbiosis.** *Scientific Reports*. [DOI](https://doi.org/10.1038/s41598-026-41597-x). (Co-corresponding author)
 
-2. Lu, L., Gao, Y., **Huang, D.**, *et al.* (2023). **Targeting integrin α5 in fibroblasts potentiates colorectal cancer response to PD-L1 blockade by affecting extracellular-matrix deposition.** *Journal for ImmunoTherapy of Cancer*, 11, e007447. (Co-first author, as reported in CV.)
+2. Lu, L., Gao, Y., **Huang, D.**, *et al.* (2023). **Targeting integrin α5 in fibroblasts potentiates colorectal cancer response to PD-L1 blockade by affecting extracellular-matrix deposition.** *Journal for ImmunoTherapy of Cancer*, 11, e007447. (Co-first author)
 
 3. **Huang, D. F.**, *et al.* (2018). **Zebrafish lacking circadian gene per2 exhibit visual function deficiency.** *Frontiers in Behavioral Neuroscience*, 12, 53. (First author.)
 
-4. Nie, K., Wang, K., **Huang, D. F.**, *et al.* (2017). **Effects of circadian clock protein Per1b on zebrafish visual functions.** *Chronobiology International*, 35, 160–168. (Co-first author, as reported in CV.)
+4. Nie, K., Wang, K., **Huang, D. F.**, *et al.* (2017). **Effects of circadian clock protein Per1b on zebrafish visual functions.** *Chronobiology International*, 35, 160–168. (Co-first author)
 
 ## Collaborative publications
 
