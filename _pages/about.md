@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-# Dengfeng Huang, Ph.D.
-
 I am a researcher in the Department of Pathology at **Shanghai Tenth People’s Hospital, affiliated with Tongji University**, where I have worked since September 2020. My current research focuses on **colorectal cancer biology**, integrating single-cell transcriptomics, spatial omics and other multi-omics approaches to study the tumor microenvironment and disease mechanisms. My work also investigates the role of macrophage complement factor D (CFD) deficiency in colorectal cancer progression.
 
 I earned my Ph.D. in **Neurobiology** from the **University of Science and Technology of China (USTC)** in 2018, studying circadian regulation of zebrafish visual function. From 2018 to 2020, I undertook postdoctoral research at the **Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences**, studying pineal neurons, single-cell profiles and neural projection patterns in zebrafish.
