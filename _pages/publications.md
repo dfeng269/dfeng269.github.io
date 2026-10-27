@@ -14,8 +14,6 @@ Song, F.\#, Chen, Q.\#, **Huang, D.**\#, Zhang, Y.\#, Han, D.\#, Rao, W., Li, M.
 
 Hu, S., Liu, H., Song, F., **Huang, D.**\*, Wei, Q.\* (2026). **CFD protein deficiency induce slow transit constipation is correlated with gut microbial dysbiosis.** *Scientific Reports*. [DOI](https://doi.org/10.1038/s41598-026-41597-x). (Co-corresponding author)
 
-Hu, S., Liu, H., Song, F., **Huang, D.**\*, Wei, Q.\* (2026). **CFD protein deficiency induce slow transit constipation is correlated with gut microbial dysbiosis.** *Scientific Reports*. [DOI](https://doi.org/10.1038/s41598-026-41597-x). (Co-corresponding author)
-
 Lu, L.\#, Gao, Y.\#, **Huang, D.**\#, *et al.* (2023). **Targeting integrin α5 in fibroblasts potentiates colorectal cancer response to PD-L1 blockade by affecting extracellular-matrix deposition.** *Journal for ImmunoTherapy of Cancer*, 11, e007447. (Co-first author)
 
 **Huang, D. F.**, *et al.* (2018). **Zebrafish lacking circadian gene per2 exhibit visual function deficiency.** *Frontiers in Behavioral Neuroscience*, 12, 53. (First author.)
