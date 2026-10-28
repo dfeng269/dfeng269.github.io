@@ -22,6 +22,10 @@ Nie, K.\#, Wang, K.\#, **Huang, D. F.**\#, *et al.* (2017). **Effects of circadi
 
 ## Collaborative publications
 
+Liang, Q., Zurlo, G., Jin, J., **Huang, D.**, Wei, Y., Shen, S., Liao, C., Wang, T., Zhang, C., Zhou, J., et al. (2026).
+**PHYHD1-mediated translational control regulates renal cell carcinoma progression.** *Molecular Cell*,
+S1097276526006635. https://doi.org/10.1016/j.molcel.2026.09.020.
+
 Wexler, Y., **Huang, D.**, Medvetzky, A., Armbruster, D., Driever, W., Yan, J., and Gothilf, Y. (2024). **Zebrafish Dark-Dependent Behavior Requires Phototransduction by the Pineal Gland.** *Journal of Pineal Research*, 76, e70021. [DOI](https://doi.org/10.1111/jpi.70021).
 
 Chang, Z., Zhu, Y., Wang, P., Du, L., Wu, M., Wang, X., Kong, C., **Huang, D.**, Xie, R., Ji, G., *et al.* (2025). **Multi-omic analyses of the development of obesity-related depression linked to the gut microbe Anaerotruncus colihominis and its metabolite glutamate.** *Science Bulletin*. [DOI](https://doi.org/10.1016/j.scib.2025.04.010).
