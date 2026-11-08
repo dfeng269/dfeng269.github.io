@@ -1,0 +1,17 @@
+# 首页“最新动态”。新增一条时，复制下面任意一组并放到文件最上方即可。
+# date 使用 YYYY-MM 格式；url 和 description 不需要时可以删除。
+
+- date: "2026-10"
+  title: "合作论文发表于 Molecular Cell"
+  description: "PHYHD1-mediated translational control regulates renal cell carcinoma progression."
+  url: "https://doi.org/10.1016/j.molcel.2026.09.020"
+
+- date: "2026-10"
+  title: "癌相关成纤维细胞研究发表于 Signal Transduction and Targeted Therapy"
+  description: "聚焦细胞因子环境塑造抗原呈递型与基质生成型成纤维细胞状态。"
+  url: "https://doi.org/10.1038/s41392-026-02965-1"
+
+- date: "2026-03"
+  title: "CFD 与肠道菌群研究发表于 Scientific Reports"
+  description: "共同通讯作者。"
+  url: "https://doi.org/10.1038/s41598-026-41597-x"

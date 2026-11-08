@@ -1,0 +1,8 @@
+main:
+  - title: "首页"
+    url: /
+  - title: "研究方向"
+    url: /research/
+  - title: "代表论文"
+    url: /publications/
+

@@ -1,0 +1,199 @@
+/* Personal academic site refinements */
+
+:root {
+  --profile-ink: #102a43;
+  --profile-blue: #0b5f7a;
+  --profile-teal: #168c8c;
+  --profile-soft: #eef7f7;
+  --profile-line: rgba(16, 42, 67, 0.14);
+}
+
+body {
+  letter-spacing: 0.01em;
+}
+
+.masthead {
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  background: color-mix(in srgb, var(--global-bg-color) 88%, transparent);
+}
+
+.page__title {
+  color: var(--profile-ink);
+  font-weight: 750;
+  letter-spacing: -0.02em;
+}
+
+.profile-hero {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 2.6rem;
+  padding: clamp(2rem, 6vw, 4.8rem);
+  color: #fff;
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at 88% 12%, rgba(99, 230, 226, 0.34), transparent 30%),
+    linear-gradient(135deg, #0b2545 0%, #0b5f7a 52%, #168c8c 100%);
+  box-shadow: 0 24px 70px rgba(8, 47, 73, 0.2);
+}
+
+.profile-hero::after {
+  content: "";
+  position: absolute;
+  right: -7rem;
+  bottom: -9rem;
+  width: 22rem;
+  height: 22rem;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 50%;
+  box-shadow: 0 0 0 3rem rgba(255, 255, 255, 0.04), 0 0 0 6rem rgba(255, 255, 255, 0.025);
+}
+
+.profile-hero h2 {
+  position: relative;
+  z-index: 1;
+  max-width: 780px;
+  margin: 0.3rem 0 1rem;
+  padding: 0;
+  color: #fff;
+  border: 0;
+  font-size: clamp(2rem, 5vw, 3.7rem);
+  line-height: 1.14;
+  letter-spacing: -0.04em;
+}
+
+.profile-hero__eyebrow {
+  position: relative;
+  z-index: 1;
+  margin-bottom: 0.8rem !important;
+  color: #a8eee8;
+  font-size: 0.76rem !important;
+  font-weight: 750;
+  letter-spacing: 0.16em;
+}
+
+.profile-hero__lead {
+  position: relative;
+  z-index: 1;
+  max-width: 760px;
+  margin-bottom: 1.6rem !important;
+  color: rgba(255, 255, 255, 0.88);
+  font-size: clamp(1rem, 2vw, 1.15rem) !important;
+  line-height: 1.85;
+}
+
+.profile-hero__actions {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+}
+
+.page__content a.profile-button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.65rem 1rem;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.38);
+  border-radius: 999px;
+  text-decoration: none;
+  transition: transform 160ms ease, background 160ms ease;
+}
+
+.page__content a.profile-button:hover {
+  background: rgba(255, 255, 255, 0.12);
+  transform: translateY(-2px);
+}
+
+.page__content a.profile-button--primary {
+  color: var(--profile-ink);
+  border-color: #fff;
+  background: #fff;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.4rem 0 2.8rem;
+}
+
+.research-card {
+  padding: 1.5rem;
+  border: 1px solid var(--profile-line);
+  border-radius: 18px;
+  background: linear-gradient(155deg, var(--global-bg-color), var(--profile-soft));
+  box-shadow: 0 10px 30px rgba(16, 42, 67, 0.06);
+}
+
+.research-card__number {
+  color: var(--profile-teal);
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+.research-card h3 {
+  margin: 0.45rem 0 0.6rem;
+  color: var(--profile-ink);
+  font-size: 1.08rem;
+}
+
+.research-card p {
+  margin: 0;
+  color: var(--global-text-color-light);
+  line-height: 1.75;
+}
+
+.update-list {
+  margin: 1.2rem 0 2.8rem;
+  border-top: 1px solid var(--profile-line);
+}
+
+.update-item {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--profile-line);
+}
+
+.update-item time {
+  color: var(--profile-teal);
+  font-weight: 750;
+}
+
+.update-item a,
+.update-item strong {
+  color: var(--profile-ink);
+  font-weight: 700;
+}
+
+.update-item p {
+  margin: 0.35rem 0 0;
+  color: var(--global-text-color-light);
+  font-size: 0.92rem !important;
+}
+
+@media (max-width: 760px) {
+  .profile-hero {
+    border-radius: 18px;
+  }
+
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .update-item {
+    grid-template-columns: 1fr;
+    gap: 0.3rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page__content a.profile-button {
+    transition: none;
+  }
+}
