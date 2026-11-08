@@ -19,7 +19,7 @@ description: "黄登烽，同济大学附属上海市第十人民医院病理科
     {% endif %}
     <div class="update-item__body">
       <time datetime="{{ item.date }}">{{ item.date }}</time>
-      {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>{% else %}<strong>{{ item.title }}</strong>{% endif %}
+      <h3>{% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
       {% if item.description %}<p>{{ item.description }}</p>{% endif %}
     </div>
   </article>
