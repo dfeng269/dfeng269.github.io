@@ -11,8 +11,14 @@ description: "黄登烽，同济大学附属上海市第十人民医院病理科
 <div class="update-list">
 {% for item in site.data.updates limit:5 %}
   <article class="update-item">
-    <time datetime="{{ item.date }}">{{ item.date }}</time>
-    <div>
+    {% if item.image %}
+    <a class="update-item__figure" href="{{ item.url }}" target="_blank" rel="noopener noreferrer" aria-label="查看论文：{{ item.title }}">
+      <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title }}" loading="lazy" decoding="async">
+      {% if item.image_caption %}<span>{{ item.image_caption }}</span>{% endif %}
+    </a>
+    {% endif %}
+    <div class="update-item__body">
+      <time datetime="{{ item.date }}">{{ item.date }}</time>
       {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>{% else %}<strong>{{ item.title }}</strong>{% endif %}
       {% if item.description %}<p>{{ item.description }}</p>{% endif %}
     </div>
