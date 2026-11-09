@@ -52,6 +52,3 @@ description: "黄登烽，同济大学附属上海市第十人民医院病理科
 - **2012.09—2018.06**　中国科学技术大学，神经生物学博士
 - **2008.09—2012.06**　蚌埠医学院，生物科学学士
 
-## 联系方式
-
-邮箱：[dfeng4127@ustc.edu](mailto:dfeng4127@ustc.edu) · GitHub：[@dfeng269](https://github.com/dfeng269)
