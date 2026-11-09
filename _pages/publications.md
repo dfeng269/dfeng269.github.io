@@ -1,13 +1,11 @@
 ---
 layout: single
-title: "代表论文"
+title: "发表论文"
 permalink: /publications/
 author_profile: true
+hide_title: true
 description: "黄登烽在肿瘤微环境、单细胞与空间组学、结直肠癌、神经生物学与昼夜节律方向的代表性论文。"
 ---
-
-
-## 代表性论文与主要贡献
 
 Song, F.\#, Chen, Q.\#, **Huang, D.**\#, Zhang, Y.\#, Han, D.\#, Rao, W., Li, M., Gao, Y., Zhang, R., Zhu, H., et al.
 (2026). **Cytokine context shapes antigen-presenting and matrix-producing states of cancer-associated fibroblasts.**
