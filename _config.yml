@@ -24,7 +24,8 @@ repository               : "dfeng269/dfeng269.github.io"
 author:
   # Biographic information
   avatar           : "profile-photo.jpg"
-  name             : "黄登烽 | Dengfeng Huang"
+  name             : "黄登烽博士"
+  name_en          : "Dr Dengfeng Huang"
   pronouns         : # example: "she/her"  
   bio              : "肿瘤微环境 · 单细胞与空间组学 · 癌症生物学"
   location         : "中国 · 上海"
