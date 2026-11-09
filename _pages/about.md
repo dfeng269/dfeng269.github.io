@@ -6,29 +6,15 @@ author_profile: true
 description: "黄登烽，同济大学附属上海市第十人民医院病理科科研人员，研究方向包括用单细胞以及空间多组学解析结直肠癌肿瘤微环境。"
 ---
 
-<div class="update-gallery" aria-label="论文代表图自动展示">
-  <div class="update-gallery__track">
-    <div class="update-gallery__group">
-    {% for item in site.data.updates limit:5 %}
-      {% if item.image %}
-      <a class="update-gallery__card" href="{{ item.url }}" target="_blank" rel="noopener noreferrer" aria-label="查看论文：{{ item.title }}">
-        <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title }}" loading="eager" decoding="async">
-        <span>{{ item.image_caption | default: item.title }}</span>
-      </a>
-      {% endif %}
-    {% endfor %}
-    </div>
-    <div class="update-gallery__group" aria-hidden="true">
-    {% for item in site.data.updates limit:5 %}
-      {% if item.image %}
-      <a class="update-gallery__card" href="{{ item.url }}" target="_blank" rel="noopener noreferrer" tabindex="-1">
-        <img src="{{ item.image | relative_url }}" alt="" loading="lazy" decoding="async">
-        <span>{{ item.image_caption | default: item.title }}</span>
-      </a>
-      {% endif %}
-    {% endfor %}
-    </div>
-  </div>
+<div class="update-slideshow" aria-label="论文代表图轮播">
+  {% for item in site.data.updates limit:3 %}
+    {% if item.image %}
+    <a class="update-slideshow__slide update-slideshow__slide--{{ forloop.index }}" href="{{ item.url }}" target="_blank" rel="noopener noreferrer" aria-label="查看论文：{{ item.title }}">
+      <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title }}" {% if forloop.first %}loading="eager"{% else %}loading="lazy"{% endif %} decoding="async">
+      <span>{{ item.image_caption | default: item.title }}</span>
+    </a>
+    {% endif %}
+  {% endfor %}
 </div>
 
 ## 最新动态
