@@ -3,7 +3,7 @@ layout: single
 title: "黄登烽"
 permalink: /
 author_profile: true
-description: "黄登烽，同济大学附属上海市第十人民医院病理科科研人员，研究方向包括结直肠癌、肿瘤微环境、单细胞转录组、空间组学与多组学。"
+description: "黄登烽，同济大学附属上海市第十人民医院病理科科研人员，研究方向包括用单细胞以及空间多组学解析结直肠癌肿瘤微环境。"
 ---
 
 ## 最新动态
@@ -54,5 +54,4 @@ description: "黄登烽，同济大学附属上海市第十人民医院病理科
 
 ## 联系方式
 
-欢迎围绕肿瘤微环境、单细胞与空间组学等方向开展学术交流与合作。  
 邮箱：[dfeng4127@ustc.edu](mailto:dfeng4127@ustc.edu) · GitHub：[@dfeng269](https://github.com/dfeng269)
