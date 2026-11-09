@@ -23,7 +23,7 @@ repository               : "dfeng269/dfeng269.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" 
+  avatar           : "profile-photo.jpg"
   name             : "黄登烽 | Dengfeng Huang"
   pronouns         : # example: "she/her"  
   bio              : "肿瘤微环境 · 单细胞与空间组学 · 癌症生物学"
