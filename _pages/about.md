@@ -12,7 +12,7 @@ description: "黄登烽，同济大学附属上海市第十人民医院病理科
     {% if item.image %}
     <a class="update-gallery__card" href="{{ item.url }}" target="_blank" rel="noopener noreferrer" aria-label="查看论文：{{ item.title }}">
       <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title }}" loading="eager" decoding="async">
-      <span>{{ item.image_caption | default: item.title }}</span>
+      <span>{% if item.journal %}{{ item.journal }} · {{ item.date }}{% else %}{{ item.title }}{% endif %}</span>
     </a>
     {% endif %}
   {% endfor %}
@@ -20,7 +20,7 @@ description: "黄登烽，同济大学附属上海市第十人民医院病理科
     {% if item.image %}
     <a class="update-gallery__card" href="{{ item.url }}" target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true">
       <img src="{{ item.image | relative_url }}" alt="" loading="lazy" decoding="async">
-      <span>{{ item.image_caption | default: item.title }}</span>
+      <span>{% if item.journal %}{{ item.journal }} · {{ item.date }}{% else %}{{ item.title }}{% endif %}</span>
     </a>
     {% endif %}
   {% endfor %}

@@ -2,25 +2,25 @@
 # date 使用 YYYY-MM 格式；url 和 description 不需要时可以删除。
 
 - date: "2026-10"
+  journal: "Molecular Cell"
   title: "发现 PHYHD1 通过调控 eEF1A1–CERT1 翻译轴抑制肾细胞癌进展，并提示 CERT1 是潜在治疗靶点"
   description: "与美国德州大学西南医学中心（达拉斯）合作完成的研究发表于 Molecular Cell"
   url: "https://doi.org/10.1016/j.molcel.2026.09.020"
   image: "/images/publications/phyhd1-graphical-abstract.png"
   image_alt: "PHYHD1 调控肾细胞癌进展的图形摘要"
-  image_caption: "论文图形摘要"
 
 - date: "2026-10"
+  journal: "Signal Transduction and Targeted Therapy"
   title: "聚焦细胞因子环境塑造抗原呈递型与基质生成型成纤维细胞状态"
   description: "共同一作发表于Signal Transduction and Targeted Therapy"
   url: "https://doi.org/10.1038/s41392-026-02965-1"
   image: "/images/publications/caf-graphical-abstract.png"
   image_alt: "IFN-γ 与 TGF-β 塑造 apCAF 和 mCAF 状态的机制摘要图"
-  image_caption: "论文机制摘要图"
 
 - date: "2026-03"
+  journal: "Scientific Reports"
   title: "CFD缺失可引起肠道菌群失衡、结肠损伤和慢传输型便秘"
   description: "共同通讯作者发表于 Scientific Reports"
   url: "https://doi.org/10.1038/s41598-026-41597-x"
   image: "/images/publications/cfd-phenotype.png"
   image_alt: "野生型与 CFD 缺失小鼠排便量比较"
-  image_caption: "论文代表性结果图"

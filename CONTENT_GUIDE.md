@@ -8,15 +8,15 @@
 
 ```yml
 - date: "2026-11"
+  journal: "期刊名称"
   title: "这里写动态标题"
   description: "这里写一句补充说明"
   url: "https://doi.org/或其他链接"
   image: "/images/publications/图片文件名.png"
   image_alt: "用一句话描述图片内容"
-  image_caption: "论文图形摘要"
 ```
 
-先把论文图片放入 `images/publications/` 文件夹，再填写 `image`。如果没有链接或图片，删除对应行即可。首页最多自动显示最新 5 条。
+先把论文图片放入 `images/publications/` 文件夹，再填写 `image`。图片标签会自动显示为“期刊名称 · 日期”。如果没有链接或图片，删除对应行即可。首页最多自动显示最新 5 条。
 
 ## 2. 修改首页介绍
 
