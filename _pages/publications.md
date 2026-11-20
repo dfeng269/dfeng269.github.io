@@ -21,6 +21,10 @@ Nie, K.\#, Wang, K.\#, **Huang, D. F.**\#, *et al.* (2017). **Effects of circadi
 
 ## 合作论文
 
+Li, G.\#, Cheng, M.\#, He, J., **Huang, D.**, Zhou, Y., Gao, Y., Sun, Y.\*, Li, Z.\* (2026).
+**Jaundice Is Associated with Intraoperative Hypotension, Suppressed Immune–endothelial NF-κB/EDN1 Signaling, and Impaired Vascular Cell Function.**
+*Journal of Clinical and Translational Hepatology*. [DOI](https://doi.org/10.14218/JCTH.2026.00174).
+
 Liang, Q., Zurlo, G., Jin, J., **Huang, D.**, Wei, Y., Shen, S., Liao, C., Wang, T., Zhang, C., Zhou, J., et al. (2026).
 **PHYHD1-mediated translational control regulates renal cell carcinoma progression.** *Molecular Cell*,
 S1097276526006635. https://doi.org/10.1016/j.molcel.2026.09.020.
