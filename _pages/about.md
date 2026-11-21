@@ -30,7 +30,7 @@ description: "黄登烽，同济大学附属上海市第十人民医院病理科
 ## 最新动态
 
 <div class="update-list">
-{% for item in site.data.updates limit:5 %}
+{% for item in site.data.updates limit:3 %}
   <article class="update-item">
     <time datetime="{{ item.date }}">{{ item.date }}</time>
     <div class="update-item__body">
@@ -40,6 +40,12 @@ description: "黄登烽，同济大学附属上海市第十人民医院病理科
   </article>
 {% endfor %}
 </div>
+
+{% if site.data.updates.size > 3 %}
+<div class="update-more">
+  <a href="{{ '/publications/' | relative_url }}" aria-label="查看更多发表论文">&gt;&gt; 更多</a>
+</div>
+{% endif %}
 
 ## 学术经历
 

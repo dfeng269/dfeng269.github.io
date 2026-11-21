@@ -270,7 +270,7 @@ body {
 
 .update-list {
   width: 100%;
-  margin: 0 0 2.8rem;
+  margin: 0;
   border-top: 1px solid var(--profile-line);
 }
 
@@ -314,6 +314,26 @@ body {
   color: var(--global-text-color-light);
   font-size: 0.9rem !important;
   line-height: 1.7;
+}
+
+.update-more {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0.8rem 0 2.8rem;
+}
+
+.page__content .update-more a {
+  color: var(--profile-teal);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.page__content .update-more a:hover,
+.page__content .update-more a:focus {
+  color: var(--profile-ink);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
 }
 
 @keyframes update-gallery-scroll {
